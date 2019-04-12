@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/uda-myreads/static/js/runtime~main.c1350bee.js"
   },
   {
-    "revision": "810ee26688b76b2f97f6",
-    "url": "/uda-myreads/static/js/main.c19f31fb.chunk.js"
+    "revision": "d532b6be68eacc6413ac",
+    "url": "/uda-myreads/static/js/main.f0008871.chunk.js"
   },
   {
     "revision": "238e2150cd7c0f067e7f",
     "url": "/uda-myreads/static/js/2.b200c27b.chunk.js"
   },
   {
-    "revision": "810ee26688b76b2f97f6",
+    "revision": "d532b6be68eacc6413ac",
     "url": "/uda-myreads/static/css/main.b77adfc2.chunk.css"
   },
   {
-    "revision": "c544140f84836077b3a4468fc5bafe89",
+    "revision": "253096185bce641fc00c8a585cff0240",
     "url": "/uda-myreads/index.html"
   }
 ];
