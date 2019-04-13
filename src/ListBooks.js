@@ -29,7 +29,7 @@ class ListBooks extends React.Component {
       <div className="list-books">
         <div className="list-books-title">
           <h1>MyReads</h1>
-          <p>info about the app Can be found<button><Link to="https://github.com/maendros/uda-myreads">here</Link></button></p>
+          <p>info about the app Can be found<Link to="https://github.com/maendros/uda-myreads"><button>here</button></Link></p>
         </div>
         <div className="list-books-content">
           <div>
